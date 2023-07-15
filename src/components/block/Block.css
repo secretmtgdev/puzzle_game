@@ -1,0 +1,14 @@
+.block {
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+    
+    /* Center the text */
+    line-height: 300px;
+    text-align: center;
+}
+
+.block:hover {
+    cursor: pointer;
+    background-color: greenyellow;
+}
